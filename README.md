@@ -8,7 +8,7 @@ The Image Grounded Question Encoder also obtains the image embedding output from
 <img width="366" alt="Screenshot 2023-07-06 at 4 14 33 PM" src="https://github.com/Vedantpalit/Causal-Intervention-on-VL-Models/assets/102275067/73601c35-549e-4a48-a42b-3dca966aa288" >
 </p>
 <p align="center">
-*BlipforVisualQuestionAnswering Architecture*
+_BlipforVisualQuestionAnswering__Architecture_
 </p>
 
 
