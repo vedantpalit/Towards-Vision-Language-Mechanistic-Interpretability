@@ -8,6 +8,7 @@ The Image Grounded Question Encoder also obtains the image embedding output from
 <img width="366" alt="Screenshot 2023-07-06 at 4 14 33 PM" src="https://github.com/Vedantpalit/Causal-Intervention-on-VL-Models/assets/102275067/73601c35-549e-4a48-a42b-3dca966aa288" >
 </p>
 <p align="center">
+
 <i>BlipforVisualQuestionAnswering Architecture</i>
 </p>
 
@@ -29,7 +30,7 @@ The following are the results of causal tracing on a couple of samples alongside
 <i>COCO-QA ID:000000220218 Image and Causal Trace</i>
 </p>
 <p align='center'>
-<img width='480' src='https://github.com/Vedantpalit/Causal-Intervention-on-VL-Models/files/11974686/causaltrace_sampleexample2_Question Encoder.pdf'>
+<img width="484" alt="Screenshot 2023-07-07 at 10 30 35 AM" src="https://github.com/Vedantpalit/Causal-Intervention-on-VL-Models/assets/102275067/686ae511-de89-4441-be5b-e0475c904776">
 </p>
 
 
