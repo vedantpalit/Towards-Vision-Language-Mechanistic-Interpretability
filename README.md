@@ -26,9 +26,11 @@ The following are the results of causal tracing on a couple of samples alongside
 <img width='400' src="https://github.com/Vedantpalit/Causal-Intervention-on-VL-Models/assets/102275067/12552ee8-ad05-4c3d-b474-9846a249d9b4">
 </p>
 <p align='center'>
-<i>COCO-QA ID:000000220218</i>
+<i>COCO-QA ID:000000220218 Image and Causal Trace</i>
 </p>
-[causaltrace_sampleexample2_Question Encoder.pdf](https://github.com/Vedantpalit/Causal-Intervention-on-VL-Models/files/11974686/causaltrace_sampleexample2_Question.Encoder.pdf)
+<p align='center'>
+<img width='480' src='https://github.com/Vedantpalit/Causal-Intervention-on-VL-Models/files/11974686/causaltrace_sampleexample2_Question.Encoder.pdf'>
+</p>
 
 
 
