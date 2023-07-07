@@ -30,9 +30,7 @@ The following are the results of causal tracing on a couple of samples alongside
 <p align='center'>
 <i>COCO-QA ID:000000220218 Image and Causal Trace</i>
 </p>
-<p align='center'>
-<img width="484" alt="Screenshot 2023-07-07 at 10 30 35 AM" src="https://github.com/Vedantpalit/Causal-Intervention-on-VL-Models/assets/102275067/686ae511-de89-4441-be5b-e0475c904776">
-</p>
+|<img width="486" alt="Screenshot 2023-07-07 at 10 44 22 AM" src="https://github.com/Vedantpalit/Causal-Intervention-on-VL-Models/assets/102275067/abfefad7-6eb5-456c-8402-f81bcdc74db2">|<img width="484" alt="Screenshot 2023-07-07 at 10 44 30 AM" src="https://github.com/Vedantpalit/Causal-Intervention-on-VL-Models/assets/102275067/b29da4a0-7d8f-42bd-bdd3-87c5b7d0194c">|
 \
 **Example 2:**
 <p align='center'>
