@@ -22,8 +22,7 @@ Causal Tracing by our methodology involves introducing noise to the Image Embedd
 </p>
 
 
-The following are the results of causal tracing on a couple of samples alongside the corresponding images:
-</n>
+The following are the results of causal tracing on a couple of samples alongside the corresponding images:\
 **Example 1:**
 <p align='center'>
 <img width='400' src="https://github.com/Vedantpalit/Causal-Intervention-on-VL-Models/assets/102275067/12552ee8-ad05-4c3d-b474-9846a249d9b4">
