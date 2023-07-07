@@ -1,0 +1,1 @@
+This directory consists of four datasets, of which three are sourced from the COCO-QA dataset with tasks pertaining to colour identification,counting and location recognition, Additionally there is also another dataset, sourced from the CLEVR Dataset which deals with binary answers for spatial relation identification. 
