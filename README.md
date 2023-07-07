@@ -33,8 +33,10 @@ The following are the results of causal tracing on a couple of samples alongside
 <i>COCO-QA ID:000000220218 Image and Causal Trace</i>
 </p>
 <p align='center'>
-<img width="360" alt="https://github.com/Vedantpalit/Causal-Intervention-on-VL-Models/blob/main/Screenshot%202023-07-07%20at%2010.44.22%20AM.png"><img width="360" alt="Screenshot 2023-07-07 at 10 44 30 AM" src="https://github.com/Vedantpalit/Causal-Intervention-on-VL-Models/assets/102275067/b29da4a0-7d8f-42bd-bdd3-87c5b7d0194c">
+
+<img width="360" alt="Screenshot 2023-07-07 at 10 44 22 AM" src="https://github.com/Vedantpalit/Causal-Intervention-on-VL-Models/assets/102275067/8ed766d8-cc2a-4821-b157-13b7cefa9de0"><img width="484" alt="Screenshot 2023-07-07 at 10 44 30 AM" src="https://github.com/Vedantpalit/Causal-Intervention-on-VL-Models/assets/102275067/b028a471-716b-4452-bf97-24f7e32a669d">
 </p>
+
 
 **Example 2:**
 <p align='center'>
@@ -44,8 +46,10 @@ The following are the results of causal tracing on a couple of samples alongside
 <i>COCO-QA ID:000000458864 Image and Causal Trace</i>
 </p>
 <p align='center'>
-<img width="360" alt="Screenshot 2023-07-07 at 10 36 45 AM" src="https://github.com/Vedantpalit/Causal-Intervention-on-VL-Models/assets/102275067/704319a0-9737-461a-a94f-c3ed6a16e1f9"><img width="360" alt="Screenshot 2023-07-07 at 10 40 53 AM" src="https://github.com/Vedantpalit/Causal-Intervention-on-VL-Models/assets/102275067/4f8874eb-8ba8-4231-9447-b15f448f9519">
+<img width="484" alt="Screenshot 2023-07-07 at 10 36 45 AM" src="https://github.com/Vedantpalit/Causal-Intervention-on-VL-Models/assets/102275067/4bf00db5-3c3f-4d97-987b-54b873e74c69"><img width="484" alt="Screenshot 2023-07-07 at 12 49 45 PM" src="https://github.com/Vedantpalit/Causal-Intervention-on-VL-Models/assets/102275067/47bed1b7-aea0-47cb-9da3-061adf865f06">
 </p>
+
+
 
 
 
