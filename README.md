@@ -41,8 +41,7 @@ The following are the results of causal tracing on a couple of samples alongside
 <p align='center'>
 <i>COCO-QA ID:000000458864 Image and Causal Trace</i>
 </p>
-| Question Encoder       | Answer Decoder         |
-| ---------------------- | ---------------------- |
+| Question Encoder| Answer Decoder|
 |<img width="484" alt="Screenshot 2023-07-07 at 10 36 45 AM" src="https://github.com/Vedantpalit/Causal-Intervention-on-VL-Models/assets/102275067/704319a0-9737-461a-a94f-c3ed6a16e1f9"> |<img width="485" alt="Screenshot 2023-07-07 at 10 40 53 AM" src="https://github.com/Vedantpalit/Causal-Intervention-on-VL-Models/assets/102275067/4f8874eb-8ba8-4231-9447-b15f448f9519">|
 
 
