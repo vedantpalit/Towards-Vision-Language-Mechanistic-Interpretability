@@ -19,13 +19,14 @@ Causal Tracing by our methodology involves introducing noise to the Image Embedd
 <p align='center'>
 <i>Visualization of Corruption of Image Embedding for Causal Tracing</i>
 
+
 </p>
 
 
 The following are the results of causal tracing on a couple of samples alongside the corresponding images:\
 **Example 1:**
 <p align='center'>
-<img width='400' src="https://github.com/Vedantpalit/Causal-Intervention-on-VL-Models/assets/102275067/12552ee8-ad05-4c3d-b474-9846a249d9b4">
+<img width='400' src="https://github.com/Vedantpalit/Causal-Intervention-on-VL-Models/assets/102275067/ed5afb35-c228-4ae8-81f2-f5f5d1c57ff0">
 </p>
 <p align='center'>
 <i>COCO-QA ID:000000220218 Image and Causal Trace</i>
