@@ -12,7 +12,14 @@ The Image Grounded Question Encoder also obtains the image embedding output from
 </p>
 
 
-Causal Tracing by our methodology involves introducing noise to the Image Embeddings, and creating a batch of 2 image embeddings being input into the Question Encoder - one being uncorrupted and the other being corrupted. Following this, we hook the outputs of different layers inside the encoder and patch the uncorrupted states to the corrupted states. 
+Causal Tracing by our methodology involves introducing noise to the Image Embeddings, and creating a batch of 2 image embeddings being input into the Question Encoder - one being uncorrupted and the other being corrupted. Following this, we hook the outputs of different layers inside the encoder and patch the uncorrupted states to the corrupted states.
+<p align='center'>
+[ICCV Figures.pdf](https://github.com/Vedantpalit/Causal-Intervention-on-VL-Models/files/11974525/ICCV.Figures.pdf)
+
+</p>
+<p align='center'>
+<i>Visualization of Corruption of Image Embedding for Causal Tracing</i>
+</p>
 
 
 
