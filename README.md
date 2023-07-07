@@ -13,8 +13,9 @@ The Image Grounded Question Encoder also obtains the image embedding output from
 
 
 Causal Tracing by our methodology involves introducing noise to the Image Embeddings, and creating a batch of 2 image embeddings being input into the Question Encoder - one being uncorrupted and the other being corrupted. Following this, we hook the outputs of different layers inside the encoder and patch the uncorrupted states to the corrupted states.
+
 <p align='center'>
-<img width='640' src="!https://github.com/Vedantpalit/Causal-Intervention-on-VL-Models/assets/102275067/42a20731-11a9-45cf-a914-1be08f4c6e27">
+<img width='640' src="https://github.com/Vedantpalit/Causal-Intervention-on-VL-Models/assets/102275067/736286cf-0d1b-4ff4-9c9a-b92149c05c1c">
 </p>
 <p align='center'>
 <i>Visualization of Corruption of Image Embedding for Causal Tracing</i>
@@ -32,7 +33,7 @@ The following are the results of causal tracing on a couple of samples alongside
 <i>COCO-QA ID:000000220218 Image and Causal Trace</i>
 </p>
 <p align='center'>
-<img width="360" alt="Screenshot 2023-07-07 at 10 44 22 AM" src="https://github.com/Vedantpalit/Causal-Intervention-on-VL-Models/assets/102275067/abfefad7-6eb5-456c-8402-f81bcdc74db2"><img width="360" alt="Screenshot 2023-07-07 at 10 44 30 AM" src="https://github.com/Vedantpalit/Causal-Intervention-on-VL-Models/assets/102275067/b29da4a0-7d8f-42bd-bdd3-87c5b7d0194c">
+<img width="360" alt="https://github.com/Vedantpalit/Causal-Intervention-on-VL-Models/blob/main/Screenshot%202023-07-07%20at%2010.44.22%20AM.png"><img width="360" alt="Screenshot 2023-07-07 at 10 44 30 AM" src="https://github.com/Vedantpalit/Causal-Intervention-on-VL-Models/assets/102275067/b29da4a0-7d8f-42bd-bdd3-87c5b7d0194c">
 </p>
 
 **Example 2:**
