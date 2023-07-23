@@ -1,4 +1,4 @@
-<img width="751" alt="Screenshot 2023-07-23 at 11 20 59 PM" src="https://github.com/Vedantpalit/Towards-Vision-Language-Mechanistic-Interpretability/assets/102275067/cc602a5d-d902-4b6f-9fea-1af6e98b0a23"># Towards-Vision-Language-Mechanistic-Interpretability
+# Towards-Vision-Language-Mechanistic-Interpretability
 
 This is the repository for the Implementation of Causal Mediation Analysis on the Vision-Language Transformer BLIP, focussed on the Visual Question Answering task of colour identification in images and questions sourced from the COCO-QA Dataset from the paper "Exploring Models and Data for Image Question Answering"
 
