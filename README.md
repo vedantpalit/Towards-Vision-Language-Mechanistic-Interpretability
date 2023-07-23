@@ -17,7 +17,6 @@ Causal Tracing by our methodology involves introducing noise to the Image Embedd
 
 <p align='center'>
 <img width="756" alt="Screenshot 2023-07-23 at 11 21 43 PM" src="https://github.com/Vedantpalit/Towards-Vision-Language-Mechanistic-Interpretability/assets/102275067/d7212438-91c6-49ed-ab1f-95d89bd373f9">
-align='center'>
 
 </p>
 <p align='center'>
