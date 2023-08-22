@@ -47,8 +47,9 @@ The following are the results of causal tracing on a couple of samples alongside
 <i>COCO-QA ID:000000458864 Image and Causal Trace Heatmap</i>
 </p>
 <p align='center'>
-<img width="360" alt="Screenshot 2023-07-07 at 10 36 45 AM" src="https://github.com/Vedantpalit/Causal-Intervention-on-VL-Models/assets/102275067/4bf00db5-3c3f-4d97-987b-54b873e74c69"><img width="360" alt="Screenshot 2023-07-07 at 12 49 45 PM" src="https://github.com/Vedantpalit/Causal-Intervention-on-VL-Models/assets/102275067/47bed1b7-aea0-47cb-9da3-061adf865f06">
+<img width="561" alt="Screenshot 2023-08-22 at 1 44 07 PM" src="https://github.com/vedantpalit/Towards-Vision-Language-Mechanistic-Interpretability/assets/102275067/080b0c99-e6ce-4ac5-b67d-fd2d1d72ebe9">
 </p>
+
 
 
 
