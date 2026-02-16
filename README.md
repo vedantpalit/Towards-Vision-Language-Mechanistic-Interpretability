@@ -50,7 +50,19 @@ The following are the results of causal tracing on a couple of samples alongside
 <img width="561" alt="Screenshot 2023-08-22 at 1 44 07 PM" src="https://github.com/vedantpalit/Towards-Vision-Language-Mechanistic-Interpretability/assets/102275067/080b0c99-e6ce-4ac5-b67d-fd2d1d72ebe9">
 </p>
 
+## Citation
 
+If you find this work useful for your research, please cite this repository:
+
+```bibtex
+@InProceedings{Palit_2023_ICCV,
+    author    = {Palit, Vedant and Pandey, Rohan and Arora, Aryaman and Liang, Paul Pu},
+    title     = {Towards Vision-Language Mechanistic Interpretability: A Causal Tracing Tool for BLIP},
+    booktitle = {Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV) Workshops},
+    month     = {October},
+    year      = {2023},
+    pages     = {2856-2861}
+}
 
 
 
