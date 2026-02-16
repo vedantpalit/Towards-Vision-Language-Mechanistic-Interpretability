@@ -52,7 +52,7 @@ The following are the results of causal tracing on a couple of samples alongside
 
 ## Citation
 
-If you find this work useful for your research, please cite this repository:
+If you find this work useful for your research, you can cite the paper at:
 
 ```bibtex
 @InProceedings{Palit_2023_ICCV,
